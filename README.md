@@ -4,6 +4,10 @@ Social Network where we can rate our friends.
 
 Social Network where we can rate our friends on 3 different prospectives.
 
+Mentor: Mr.Ajay Kumar;
+
+Professor Mentor: Mr.Amit Kumar;
+
 Developers:
 
 Name: Vaishno Chaitanya;
