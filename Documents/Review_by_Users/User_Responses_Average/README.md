@@ -1,1 +1,1 @@
-Images Showing the Average of chart Representation of the User Reviews.
+Images Showing the Average or chart Representation of the User Reviews.
